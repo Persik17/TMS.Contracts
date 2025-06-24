@@ -3,7 +3,7 @@
     /// <summary>
     /// Represents the different types of verification methods.
     /// </summary>
-    public enum VerificationType
+    public enum NotificationType
     {
         /// <summary>
         /// Verification via email.

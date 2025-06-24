@@ -30,6 +30,8 @@ namespace TMS.Contracts.Events
         /// </summary>
         public string Code { get; set; }
 
+        public string Message { get; set; }
+
         /// <summary>
         /// Gets or sets the date and time when the verification expires.
         /// </summary>
